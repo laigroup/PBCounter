@@ -1,0 +1,12 @@
+[submodule "libraries/roundingsat"]
+	path = libraries/roundingsat
+	url = https://gitlab.com/ZH.Xu/roundingsat.git
+[submodule "libraries/cudd"]
+	path = libraries/cudd
+	url = https://github.com/vuphan314/cudd
+[submodule "libraries/cxxopts"]
+	path = libraries/cxxopts
+	url = https://github.com/jarro2783/cxxopts
+[submodule "libraries/sylvan"]
+	path = libraries/sylvan
+	url = https://github.com/vuphan314/sylvan

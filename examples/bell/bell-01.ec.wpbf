@@ -1,0 +1,6 @@
+* Generated with the ec2pb.py tool by Tommi Junttila
+* Input file name: ..//bell/bell-01.ec
+* #variable= 1 #constraint= 1
+1 x1 = 1 ;
+w x1 0.83
+w x-1 0.17

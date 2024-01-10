@@ -1,0 +1,37 @@
+* Generated with the ec2pb.py tool by Tommi Junttila
+* Input file name: ..//bell/bell-04.ec
+* #variable= 15 #constraint= 4
++1 x1 +1 x3 +1 x5 +1 x7 +1 x9 +1 x11 +1 x13 +1 x15 = 1 ;
++1 x2 +1 x3 +1 x6 +1 x7 +1 x10 +1 x11 +1 x14 +1 x15 = 1 ;
++1 x4 +1 x5 +1 x6 +1 x7 +1 x12 +1 x13 +1 x14 +1 x15 = 1 ;
++1 x8 +1 x9 +1 x10 +1 x11 +1 x12 +1 x13 +1 x14 +1 x15 = 1 ;
+w x1 0.83
+w x-1 0.17
+w x2 0.86
+w x-2 0.14
+w x3 0.77
+w x-3 0.23
+w x4 0.15
+w x-4 0.85
+w x5 0.93
+w x-5 0.07
+w x6 0.35
+w x-6 0.65
+w x7 0.86
+w x-7 0.14
+w x8 0.92
+w x-8 0.08
+w x9 0.49
+w x-9 0.51
+w x10 0.21
+w x-10 0.79
+w x11 0.62
+w x-11 0.38
+w x12 0.27
+w x-12 0.73
+w x13 0.9
+w x-13 0.1
+w x14 0.59
+w x-14 0.41
+w x15 0.63
+w x-15 0.37

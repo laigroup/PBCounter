@@ -1,0 +1,20 @@
+* Generated with the ec2pb.py tool by Tommi Junttila
+* Input file name: ..//bell/bell-03.ec
+* #variable= 7 #constraint= 3
++1 x1 +1 x3 +1 x5 +1 x7 = 1 ;
++1 x2 +1 x3 +1 x6 +1 x7 = 1 ;
++1 x4 +1 x5 +1 x6 +1 x7 = 1 ;
+w x1 0.83
+w x-1 0.17
+w x2 0.86
+w x-2 0.14
+w x3 0.77
+w x-3 0.23
+w x4 0.15
+w x-4 0.85
+w x5 0.93
+w x-5 0.07
+w x6 0.35
+w x-6 0.65
+w x7 0.86
+w x-7 0.14
