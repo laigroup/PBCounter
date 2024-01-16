@@ -1,6 +1,6 @@
 # PBCounter
 
-PBCounter is a Weighted Model Counter on Pseudo-Boolean Constraints.
+PBCounter is a Weighted Model Counter on Pseudo-Boolean Constraints. If you use the tool, please cite our paper [PBCounter: Weighted Model Counting on Pseudo-Boolean Formulas](https://arxiv.org/abs/2312.15877)
 
 ## How to Use
 
