@@ -14,4 +14,4 @@ Use `./PBCounter -h` or `PBCounter --help` to see help information.
 
 You can access the benchmark dataset we used in our paper at [Zenodo](https://zenodo.org/records/14958540). 
 
-Additionally, we provide the encoding tool [PBEncoder](https://github.com/laigroup/PBEncoder), which facilitates the compilation of PBFormula into CNF. The tool implements two counting-safe encoding methods used in our paper.
+Additionally, we provide the encoding tool [PBEncoder](https://github.com/laigroup/PBEncoder), which facilitates the transformation of PB formula into CNF. The tool implements two counting-safe encoding methods used in our paper.
